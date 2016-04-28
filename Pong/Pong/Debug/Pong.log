@@ -1,0 +1,4 @@
+﻿  Game-main.cpp
+c:\users\haitao zhu\desktop\sdl\ge161v1\event.h(39): warning C4091: 'static ': ignored on left of 'const GE161::Event::myEvent' when no variable is declared
+  Pong.vcxproj -> C:\Users\HAITAO ZHU\Desktop\SDL\MyProjects\Pong\Debug\Pong.exe
+  Pong.vcxproj -> C:\Users\HAITAO ZHU\Desktop\SDL\MyProjects\Pong\Debug\Pong.pdb (Partial PDB)
