@@ -1,3 +1,8 @@
+/* 
+This file implemented the most mechanisms of the game, since all objects presented in the game are inherited from GameObject. 
+It incudes the objects' position, collisions for different objects and reactions after collisions, and also the renderer.
+Not only those reactions we can see in the game, but also GameObject reflect the important attributes of virtual functions(might seen in Object implementation) and overload functions, which also gives the programmer--me a better understanding of how these attributes could inteact and perform and their advantages in real project.
+*/
 #include <time.h>
 #include "GameObject.h"
 #include "Game.h"
